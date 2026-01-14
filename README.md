@@ -1,84 +1,88 @@
-# Ever Sánchez Mateus
+<h1 align="center">Ever Sánchez Mateus</h1>
+<h3 align="center">Ingeniero de Sistemas | Software Engineer | Cloud & Project-Oriented Development</h3>
 
-## Software Engineer | Technical Lead | IT Project Management
-
-Ingeniero de software con experiencia en el diseño y desarrollo de **soluciones web escalables**, integración de servicios en la nube y **gestión de proyectos informáticos**. Enfocado en transformar requerimientos de negocio en sistemas robustos, mantenibles y alineados con buenas prácticas de ingeniería de software.
-
----
-
-## Perfil Profesional
-
-Desarrollador orientado a resultados, con capacidad para analizar problemas complejos, definir arquitecturas eficientes y liderar la implementación de soluciones tecnológicas. Experiencia en aplicaciones empresariales, autenticación segura, bases de datos relacionales y NoSQL, así como en documentación técnica y control de versiones.
+<p align="center">
+Soluciones de software enfocadas en calidad, escalabilidad y valor para el negocio
+</p>
 
 ---
 
-## Competencias Técnicas
+## 🧠 Sobre mí
 
-### Desarrollo Frontend
-- Angular (arquitectura modular, componentes avanzados)
-- TypeScript
-- HTML5, CSS3
-- Bootstrap, Angular Material
-- Diseño responsive y UX funcional
+Ingeniero de Sistemas con experiencia en desarrollo de aplicaciones web, integración de servicios en la nube y gestión de proyectos informáticos. Enfocado en resolver problemas reales mediante soluciones técnicas bien estructuradas, seguras y mantenibles.
 
-### Backend & Cloud
-- Firebase (Authentication, Firestore, Storage)
-- Node.js
-- APIs RESTful
-- Integración de servicios en la nube
-
-### Bases de Datos
-- Oracle Database
-- SQL
-- Firestore (NoSQL)
-
-### Control de Versiones y Metodologías
-- Git, GitHub
-- Git Flow
-- Metodologías ágiles (Scrum)
-- Documentación técnica
+Me especializo en el diseño e implementación de sistemas modernos, combinando buenas prácticas de ingeniería, control de versiones y documentación técnica.
 
 ---
 
-## Experiencia Técnica Aplicada
+## 🧩 Lenguajes
 
-- Desarrollo de sistemas web empresariales
-- Implementación de autenticación y control de acceso
-- Modelado y gestión de bases de datos
-- Diseño de interfaces claras y mantenibles
-- Integración de servicios externos
-- Gestión y seguimiento de proyectos de software
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
-## Proyectos Relevantes
+## 🛠️ Herramientas y Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## ☁️ Desarrollo y Enfoque Técnico
+
+- Desarrollo de aplicaciones web modernas
+- Integración de APIs y servicios cloud
+- Diseño de arquitecturas limpias y escalables
+- Gestión de proyectos de software
+- Control de versiones y flujos profesionales con Git
+- Documentación técnica y buenas prácticas
+
+---
+
+## 🚀 Proyectos Destacados
 
 **Sistema de Gestión de Eventos**
-- Aplicación web desarrollada en Angular
-- Autenticación con Firebase (Google, Facebook, GitHub)
-- Arquitectura modular y diseño responsive
-- Gestión de eventos, usuarios y roles
+- Aplicación web con arquitectura modular
+- Autenticación y control de usuarios
+- Enfoque en usabilidad y escalabilidad
 
-**Plataforma de Gestión Académica**
-- Formularios complejos con validaciones avanzadas
-- Base de datos Oracle
-- Enfoque en integridad de datos y escalabilidad
-
----
-
-## Métricas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+**Plataformas Académicas y Administrativas**
+- Formularios avanzados
+- Bases de datos relacionales
+- Validaciones, seguridad e integridad de datos
 
 ---
 
-## Contacto Profesional
+## 📊 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/tu-linkedin
-- Email: tu-correo@email.com
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact"/>
+</p>
 
 ---
 
-Comprometido con la mejora continua, la calidad del software y el desarrollo de soluciones tecnológicas con impacto real.
+## 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tu-linkedin
+- 📧 Email: tu-correo@email.com
+
+---
+
+<p align="center">
+Comprometido con el aprendizaje continuo y el desarrollo de software de calidad.
+</p>
