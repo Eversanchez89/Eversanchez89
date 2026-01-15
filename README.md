@@ -7,7 +7,7 @@ Soluciones de software enfocadas en calidad, escalabilidad y valor para el negoc
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Ingeniero de Sistemas con experiencia en desarrollo de aplicaciones web, integración de servicios en la nube y gestión de proyectos informáticos. Enfocado en resolver problemas reales mediante soluciones técnicas bien estructuradas, seguras y mantenibles.
 
@@ -50,7 +50,7 @@ Me especializo en el diseño e implementación de sistemas modernos, combinando 
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 **Sistema de Gestión de Eventos**
 - Aplicación web con arquitectura modular
